@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <p id="demo"></p>
+
+    <script>
+    let naam = "siem";
+    function update() {
+        document.getElementById("demo").innerHTML = "naam gewijzigd naar  "+naam;
+    }
+    </script>
+
+    <input type="text" id="myName" placeholder="wijzig naam">
+    <p></p>
+    <button id="button">opslaan</button>
+    
+    <script>
+    const btn= document.getElementById("button");
+        button.addEventListener('click', function(){var name = document.getElementById("myName").value;naam=name;update();});</script>
+<p></p><a href="/index.html">terug</a>
+</html> 
