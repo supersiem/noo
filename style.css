@@ -32,4 +32,6 @@ pre{
 i{
   z-index: 9998;
 }
-
+body {
+  background-image: url("background.jpeg");
+}
