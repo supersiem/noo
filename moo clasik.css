@@ -1,3 +1,44 @@
 div.row1{
-    
+    top: 1%;
+}
+div.row2{
+    top: 19%;
+}
+div.row3{
+    top: 37%;
+}
+div.row4{
+    top: 55%;
+}
+div.r2{
+    right: -210px;
+    float: right;
+}
+div.r1{
+    right: -10px;
+    float: right;
+}
+div.r3{
+    right: -410px;
+    float: right;
+}
+div.r4{
+    right: -610px;
+    float: right;
+}
+div.r5{
+    right: -810px;
+    float: right;
+}
+div.r6{
+    right: -1010px;
+    float: right;
+}
+div.r7{
+    right: -1210px;
+    float: right;
+}
+div{
+    float: right;
+    position: absolute;
 }
