@@ -6,11 +6,11 @@
   height: 150px;
 }
 div.tegel {
-  border-radius: 20px;
+  border-radius: 25px;
   background: DodgerBlue;
   padding: 20px;
   height: 100px;
-  width: 88%;
+  width: 95%;
   background-color: DodgerBlue;
 }
 div.mootegel{
@@ -18,22 +18,25 @@ div.mootegel{
   background-color: DodgerBlue;
   border-radius: 25px;
   background: DodgerBlue;
-  padding: 0px;
+  padding: 20px;
   height: 100px;
 }
 pre{
   z-index: 9999;
   position: absolute;
+  color: rgb(255, 255, 255);
   text-align-last: center;
   text-decoration: none;
   font-size: 20px;
 }
-
+i{
+  z-index: 9998;
+}
 body {
-  background-image: url('');
+  background-image: url("background.jpeg");
 }
 h1.welkom{
-  background-color: rgb(255,255,255);
+  background-color: rgb(211, 211, 211);
   color: rgb(0, 0, 0);
   font-family: Arial, Helvetica, sans-serif;
 }
