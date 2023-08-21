@@ -1,6 +1,12 @@
 # noo
-noo is moo
-instelingen heeft nog geen funcsie
+noov2_dev
+noo beta v2 brengt een paar nieuwen funvsies
+
+
+
+
+
+
 
 HOW TO INSTAL ON CLOUD
 

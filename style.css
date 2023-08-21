@@ -5,12 +5,18 @@
   width: 200px;
   height: 150px;
 }
+iframe{
+  border-radius: 20px;
+  padding: 20px;
+  height: 100px;
+  width: 88%;
+}
 div.tegel {
-  border-radius: 25px;
+  border-radius: 20px;
   background: DodgerBlue;
   padding: 20px;
   height: 100px;
-  width: 95%;
+  width: 88%;
   background-color: DodgerBlue;
 }
 div.mootegel{
@@ -18,25 +24,32 @@ div.mootegel{
   background-color: DodgerBlue;
   border-radius: 25px;
   background: DodgerBlue;
-  padding: 20px;
+  padding: 0px;
   height: 100px;
+  
+}
+
+.midden{
+  position: absolute;
+  top: 50%;
 }
 pre{
   z-index: 9999;
   position: absolute;
-  color: rgb(255, 255, 255);
   text-align-last: center;
   text-decoration: none;
   font-size: 20px;
 }
-i{
-  z-index: 9998;
-}
+
 body {
-  background-image: url("background.jpeg");
+  background-image: url('');
 }
-h1.welkom{
-  background-color: rgb(211, 211, 211);
-  color: rgb(0, 0, 0);
+h1.welkom{ 
+  background-color: rgb(255,255,255);
+  !important color: rgb(0, 0, 0);
   font-family: Arial, Helvetica, sans-serif;
+}
+p {
+  text-align: left;
+  
 }
